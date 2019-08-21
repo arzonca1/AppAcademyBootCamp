@@ -1,0 +1,35 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\ApplicationInsights.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Widget Library.dll.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Widget Library.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Widget Library.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\obj\Debug\Widget Library.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\obj\Debug\Widget Library.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\obj\Debug\Widget Library.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Widget Library\Widget Library\bin\Newtonsoft.Json.xml
