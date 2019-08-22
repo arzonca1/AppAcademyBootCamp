@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Widget_Library.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <div>
+                <span style="margin-right: 5px;">Theme</span>
+                <asp:DropDownList OnSelectedIndexChanged="ThemeDropDownList_SelectedIndexChanged" runat="server" ViewStateMode="Enabled" ID="ThemeDropDownList" AutoPostBack="true" style="float: right;">
+                    
+                    <asp:ListItem Text="" Value="" />
+                    <asp:ListItem Text="Light" Value="Light" />
+                    <asp:ListItem Text="Dark" Value="Dark" />
+                    <asp:ListItem Text="Neon" Value="Neon" />
+                </asp:DropDownList>
+
+            </div>
+            <asp:Menu ID="MainMenu" runat="server" Orientation="Horizontal">
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home" Value="Home" />
+                    <asp:MenuItem NavigateUrl="~/Example Counter.aspx" Text="Counter" Value="Counter" />
+                    <asp:MenuItem NavigateUrl="~/Example Text Control.aspx" Text="Font Preview" Value="Font Preview" />
+
+                    <asp:MenuItem NavigateUrl="~/Example Quote Of The Day.aspx" Text="Quote of the Day" Value="Quote of the Day" />
+                    <asp:MenuItem NavigateUrl="~/Example Render Time.aspx" Text="Render Time" Value="Render Time" />
+                    <asp:MenuItem NavigateUrl="~/Example Weather.aspx" Text="Weather" Value="Weather" />
+
+                </Items>
+            </asp:Menu>
+        </header>
+
+        <main>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </main>
+    </form>
+</body>
+</html>
