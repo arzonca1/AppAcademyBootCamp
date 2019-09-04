@@ -10,7 +10,7 @@ using System.Web.UI.WebControls;
 
 namespace Library
 {
-    public partial class BookTemplateAdd : System.Web.UI.Page
+    public partial class BookTemplateAdd : BasePage
     {
         //int itemId = 0;
 

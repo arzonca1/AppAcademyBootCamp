@@ -9,7 +9,7 @@ using System.Web.UI.WebControls;
 
 namespace Library
 {
-    public partial class BookTemplateList : System.Web.UI.Page
+    public partial class BookTemplateList : BasePage
     {
         protected void Page_Load(object sender, EventArgs e)
         {

@@ -10,7 +10,7 @@ using System.Web.UI.WebControls;
 
 namespace Library
 {
-    public partial class BranchEdit : System.Web.UI.Page
+    public partial class BranchEdit : BasePage
     {
         int branchId = 0;
 

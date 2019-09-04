@@ -11,7 +11,7 @@ using System.Web.UI.WebControls;
 
 namespace Library
 {
-    public partial class BookEdit : System.Web.UI.Page
+    public partial class BookEdit : BasePage
     {
         int bookID1 = 0;
         protected void Page_Load(object sender, EventArgs e)
