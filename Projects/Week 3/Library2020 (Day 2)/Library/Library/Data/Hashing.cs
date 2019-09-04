@@ -13,9 +13,9 @@ namespace Library.Data
             return BCrypt.Net.BCrypt.HashPassword(password, BCrypt.Net.BCrypt.GenerateSalt(12));
         }
 
-        public static bool BCrypt.Net.BCrypt.ValidatePassword(string password, string correctHash)
+        public static bool ValidatePassword(string password, string correctHash)
         {
-
+            return BCrypt.Net.BCrypt.Verify(password, correctHash);
         }
     }
 }
